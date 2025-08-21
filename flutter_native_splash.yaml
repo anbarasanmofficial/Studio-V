@@ -1,0 +1,11 @@
+flutter_native_splash:
+  color: "#ffffff"
+  image: "assets/Splash_Screen.png"
+
+  android_12:
+    image: "assets/Spalash_Screen.png"
+    color: "#ffffff"
+  android : true
+  ios : true
+
+  branding_mode : fill
